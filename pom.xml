@@ -17,7 +17,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://98.81.59.203:8081/repository/batch15_snapshot_release/</url>
+		    <url>http://34.203.10.10:8081/repository/test-war-practice/</url>
 		 </snapshotRepository>
 		
 		<repository>
