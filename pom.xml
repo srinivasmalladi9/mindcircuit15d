@@ -22,7 +22,7 @@
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://ec2-44-202-247-118.compute-1.amazonaws.com:8081/repository/batch14-repo-release/</url>
+		    <url>http://98.81.59.203:8081/repository/batch15-repo-release/</url>
 		</repository>
   	</distributionManagement>
 
