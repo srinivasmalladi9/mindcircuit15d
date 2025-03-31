@@ -5,24 +5,24 @@
 
     <groupId>com.example</groupId>
     <artifactId>mindcircuitbatch15d</artifactId>
-    <version>1.5.0</version>
+    <version>1.1.0</version>
     <packaging>war</packaging>
 
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://3.87.118.249:9000/</sonar.host.url>
+		<sonar.host.url>http://13.217.199.180:9000/</sonar.host.url>
 
 	</properties>
 
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://34.203.10.10:8081/repository/test-war-practice/</url>
+		    <url>http://54.210.73.210:8081/repository/test-war-practice/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://98.81.59.203:8081/repository/batch15-repo-release/</url>
+		    <url>http://54.210.73.210:8081/repository/test-war-practice/</url>
 		</repository>
   	</distributionManagement>
 
